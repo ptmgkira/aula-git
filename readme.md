@@ -2,7 +2,7 @@
 
 - [x] Você deseja criar um pontos na história da produção do seu projeto 
 - (usar git add + nome do arquivo) 
-- ( git commit -m "" irar mandar o arquivo para o repositorio ) 
+- ( git commit -m "" irar mandar o arquivo para o repositório ) 
 - (git log para poder olhar ser teve alguma alteração nos arquivos enviados pelo git commit -m)
 - (git status motra o status que seu projeto estar ou ser algum arquivo você mudou)
 
@@ -19,11 +19,11 @@
 - (git branch -D + "nome" para poder deletar o arquivo na linha do tempo)
 
 - [x] colocar seu projeto na nuvem.
-- (usar os comando que iram pedir quando criar o repositorio manualmente no git como.)
-- (git remote add origin + " git@github.com:USUARIO/repositorio".)
+- (usar os comando que iram pedir quando criar o repositório manualmente no git como.)
+- (git remote add origin + " git@github.com:USUARIO/repositório".)
 - (git branch -M main para voltar a linha do tempo principal.)
 - (git push -u origin main para enviar os seus arquivos direto para a nuvel do git.)
-- []
+
 
 * `git init` // inicia a linha do tempo.
 * `git add` // adiciona ou atualiza mudanças para irem para a linha do tempo.
@@ -31,7 +31,9 @@
 * `git log` // visualiza os pontos na linha do tempo / commit.
 * `git status` // informa o estado das alterações do nosso projeto.
 * `git show` // apresenta determinado ponto na história.
-
-
-
-
+* `git branch` // gerencia as linhas do tempo criada.
+* `git checkout` // manipulas as linhas do tempo.
+* `git merge` // irar unir as linhas do tempo criadas.
+* `git push` // enviarar as alterações locais para o repositório remoto.
+* `git clone` // irar clonar um projeto /repositório.
+* `git pull` // irar puxar as atualição feitas no repositório remoto.
