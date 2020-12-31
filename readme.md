@@ -1,28 +1,28 @@
 # GIT E GITHUB
 
 - [x] Você deseja criar um pontos na história da produção do seu projeto 
-(usar git add + nome do arquivo) 
-( git commit -m "" irar mandar o arquivo para o repositorio ) 
-(git log para poder olhar ser teve alguma alteração nos arquivos enviados pelo git commit -m)
-(git status motra o status que seu projeto estar ou ser algum arquivo você mudou)
+- (usar git add + nome do arquivo) 
+- ( git commit -m "" irar mandar o arquivo para o repositorio ) 
+- (git log para poder olhar ser teve alguma alteração nos arquivos enviados pelo git commit -m)
+- (git status motra o status que seu projeto estar ou ser algum arquivo você mudou)
 
 - [x] Deseja verificar mudanças feitas no seu projeto.
-(usar git show para mostras os pontos que foram criados pelo git commit -m)
+- (usar git show para mostras os pontos que foram criados pelo git commit -m)
 
 - [x] Começar uma nova funcionalidade no seu projeto,sem estragar o que já foi feito.
-(git branch "nome" usar para criar novas linhas do tempo sem prejudicar o projeto.)
-(git checkout + "nome" do arquivo ou master para volta ao principal ou alguma outra linha do tempo.)
+- (git branch "nome" usar para criar novas linhas do tempo sem prejudicar o projeto.)
+- (git checkout + "nome" do arquivo ou master para volta ao principal ou alguma outra linha do tempo.)
 - [x] Adicionar as novas funcionalidaes ao seu projeto em produção.
-(git merge + "nome" para unir as linha do tempo.)
+- (git merge + "nome" para unir as linha do tempo.)
 
 - [x] Deletar a branch da nova funcionalidade, depois de aplicar em seu projeto. 
-(git branch -D + "nome" para poder deletar o arquivo na linha do tempo)
+- (git branch -D + "nome" para poder deletar o arquivo na linha do tempo)
 
 - [x] colocar seu projeto na nuvem.
-(usar os comando que iram pedir quando criar o repositorio manualmente no git como.)
-(git remote add origin + " git@github.com:USUARIO/repositorio".)
-(git branch -M main para voltar a linha do tempo principal.)
-(git push -u origin main para enviar os seus arquivos direto para a nuvel do git.)
+- (usar os comando que iram pedir quando criar o repositorio manualmente no git como.)
+- (git remote add origin + " git@github.com:USUARIO/repositorio".)
+- (git branch -M main para voltar a linha do tempo principal.)
+- (git push -u origin main para enviar os seus arquivos direto para a nuvel do git.)
 - []
 
 - `git init` // inicia a linha do tempo.
@@ -34,5 +34,4 @@
 
 
 
-ssh-keygen 
-ssh-agent 
+
